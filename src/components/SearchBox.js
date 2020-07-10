@@ -12,7 +12,7 @@ function SearchBox(props) {
                     {/* <header className=" > */}
 
                     <div className="col s6">
-                        <h3 className="right-align headerText">Associate Directory</h3>
+                        <h3 className="right-align headerText">User Directory</h3>
                         {/* <h6 className="center-align smallerHeaderText">Use the box down below to narrow your search</h6> */}
                     </div>
                     <div className="col s6 ">
